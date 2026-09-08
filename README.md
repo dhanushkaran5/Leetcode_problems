@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0214-shortest-palindrome) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
