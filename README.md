@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0214-shortest-palindrome) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0115-distinct-subsequences) |
 ## Manacher
 |  |
 | ------- |
