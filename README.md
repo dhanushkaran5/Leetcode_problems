@@ -30,16 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0115-distinct-subsequences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
 | ------- |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0147-insertion-sort-list) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Rolling Hash
 |  |
 | ------- |
