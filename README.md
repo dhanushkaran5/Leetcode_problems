@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0835-image-overlap](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
