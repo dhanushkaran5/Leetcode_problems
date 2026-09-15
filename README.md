@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0214-shortest-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0115-distinct-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
