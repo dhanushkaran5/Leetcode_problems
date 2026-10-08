@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0214-shortest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0127-word-ladder) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
