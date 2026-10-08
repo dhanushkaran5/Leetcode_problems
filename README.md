@@ -8,15 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0214-shortest-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
