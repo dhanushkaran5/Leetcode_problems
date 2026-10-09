@@ -10,17 +10,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0214-shortest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
