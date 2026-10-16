@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0836-rectangle-overlap](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3870-count-commas-in-range) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0060-permutation-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
