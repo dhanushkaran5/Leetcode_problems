@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0147-insertion-sort-list) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -117,20 +118,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0127-word-ladder) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0127-word-ladder) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bidirectional Search
 |  |
 | ------- |
