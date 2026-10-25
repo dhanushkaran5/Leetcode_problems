@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0835-image-overlap](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 ## Geometry
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/dhanushkaran5/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
